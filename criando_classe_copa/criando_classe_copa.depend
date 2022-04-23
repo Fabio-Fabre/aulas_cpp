@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1650672879 source:c:\users\fabio\documents\estudos\programação\c++\criando_classe_copa\main.cpp
+	"includes.hpp"
+	"jogador.hpp"
+	"times.hpp"
+	"copa_do_mundo.hpp"
+
+1650585069 c:\users\fabio\documents\estudos\programação\c++\criando_classe_copa\includes.hpp
+	<iostream>
+	<string>
+
+1650579811 c:\users\fabio\documents\estudos\programação\c++\criando_classe_copa\jogador.hpp
+	"includes.hpp"
+
+1650580665 source:c:\users\fabio\documents\estudos\programação\c++\criando_classe_copa\jogador.cpp
+	"includes.hpp"
+	"jogador.hpp"
+
+1650583807 c:\users\fabio\documents\estudos\programação\c++\criando_classe_copa\time.hpp
+	"includes.hpp"
+	"jogador.hpp"
+
+1650584156 source:c:\users\fabio\documents\estudos\programação\c++\criando_classe_copa\times.cpp
+	"times.hpp"
+
+1650584208 c:\users\fabio\documents\estudos\programação\c++\criando_classe_copa\times.hpp
+	"includes.hpp"
+	"jogador.hpp"
+
+1650671960 source:c:\users\fabio\documents\estudos\programação\c++\criando_classe_copa\copa_do_mundo.cpp
+	"copa_do_mundo.hpp"
+
+1650671952 c:\users\fabio\documents\estudos\programação\c++\criando_classe_copa\copa_do_mundo.hpp
+	"includes.hpp"
+	"times.hpp"
+

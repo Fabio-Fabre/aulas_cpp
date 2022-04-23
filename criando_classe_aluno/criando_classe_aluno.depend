@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1649636156 source:c:\users\fabio\documents\estudos\programação\c++\criando_classe_aluno\main.cpp
+	"Aluno.cpp"
+
+1649636522 c:\users\fabio\documents\estudos\programação\c++\criando_classe_aluno\aluno.cpp
+	"Aluno.hpp"
+
+1649636503 c:\users\fabio\documents\estudos\programação\c++\criando_classe_aluno\aluno.hpp
+	<iostream>
+	<string>
+
+1649636522 source:c:\users\fabio\documents\estudos\programação\c++\criando_classe_aluno\aluno.cpp
+	"Aluno.hpp"
+
